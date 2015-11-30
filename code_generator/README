@@ -1,0 +1,1 @@
+This a simple programm that accesses a MS SQL server to grab column data and generates a simple three-tier struct containing a data table class, a data access layer, a business layer, a UI and a sql helper to operate the database.

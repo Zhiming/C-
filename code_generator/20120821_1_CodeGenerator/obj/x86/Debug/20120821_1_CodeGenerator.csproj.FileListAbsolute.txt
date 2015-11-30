@@ -1,0 +1,9 @@
+D:\Backup\我的文档\Visual Studio 2010\Projects\20120821_1_CodeGenerator\20120821_1_CodeGenerator\bin\Debug\20120821_1_CodeGenerator.exe
+D:\Backup\我的文档\Visual Studio 2010\Projects\20120821_1_CodeGenerator\20120821_1_CodeGenerator\bin\Debug\20120821_1_CodeGenerator.pdb
+D:\Backup\我的文档\Visual Studio 2010\Projects\20120821_1_CodeGenerator\20120821_1_CodeGenerator\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Backup\我的文档\Visual Studio 2010\Projects\20120821_1_CodeGenerator\20120821_1_CodeGenerator\obj\x86\Debug\_20120821_1_CodeGenerator.Form1.resources
+D:\Backup\我的文档\Visual Studio 2010\Projects\20120821_1_CodeGenerator\20120821_1_CodeGenerator\obj\x86\Debug\_20120821_1_CodeGenerator.Properties.Resources.resources
+D:\Backup\我的文档\Visual Studio 2010\Projects\20120821_1_CodeGenerator\20120821_1_CodeGenerator\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Backup\我的文档\Visual Studio 2010\Projects\20120821_1_CodeGenerator\20120821_1_CodeGenerator\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Backup\我的文档\Visual Studio 2010\Projects\20120821_1_CodeGenerator\20120821_1_CodeGenerator\obj\x86\Debug\20120821_1_CodeGenerator.exe
+D:\Backup\我的文档\Visual Studio 2010\Projects\20120821_1_CodeGenerator\20120821_1_CodeGenerator\obj\x86\Debug\20120821_1_CodeGenerator.pdb
